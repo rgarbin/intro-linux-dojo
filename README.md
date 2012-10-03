@@ -43,7 +43,9 @@
 - O empacotamento é um quesito que pode servir para diferenciar as distros
 - Empacotamento é a forma como algo é entregue, como programas são enviados, recebidos e instalados dentro das distros
 - Como o Linux é um sistema livre e com várias distros, ele possui vários sistemas de empacotamento
-- Dois dos mais conhecidos são o DEB e o RPM
+- Dois dos mais conhecidos são:
+    - DEB 
+    - RPM
 
 ## Shell
 - Shell é um interpretador de comandos
