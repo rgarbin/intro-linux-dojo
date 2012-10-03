@@ -86,6 +86,7 @@ Apresentação elaborada por Marcelo Anton e Rafael Garbin para um treinamento!
 - /sbin
 - /tmp
 - /usr
+- http://pt.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
 
 # Porque Linux?
 
