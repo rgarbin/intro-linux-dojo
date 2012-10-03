@@ -72,21 +72,21 @@ Apresentação elaborada por Marcelo Anton e Rafael Garbin para um treinamento!
 - Qual devo usar? Gosto é gosto e não se discute.
 
 ## FHS(Filesystem Hierarchy Standard)
-- /bin 
-- /boot
-- /etc
-- /dev
-- /home
-- /lib
-- /mnt
-- /media
-- /opt
-- /proc
-- /root
-- /sbin
-- /tmp
-- /usr
-- http://pt.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+- Estrutura básica de diretórios do Sistema Linux
+  - /bin 
+  - /boot
+  - /etc
+  - /dev
+  - /home
+  - /lib
+  - /mnt
+  - /media
+  - /opt
+  - /proc
+  - /root
+  - /sbin
+  - /tmp
+  - /usr
 
 # Porque Linux?
 
