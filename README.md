@@ -1,4 +1,5 @@
 # Introdução
+Apresentação elaborada por Marcelo Anton e Rafael Garbin para um treinamento!
 
 # O que é o Linux?
 - É um sistema operacional derivado do Unix
@@ -69,6 +70,22 @@
     - XFCE que utiliza o GTK
 - Cada um possui o seu conjunto de aplicativos
 - Qual devo usar? Gosto é gosto e não se discute.
+
+## FHS(Filesystem Hierarchy Standard)
+- /bin 
+- /boot
+- /etc
+- /dev
+- /home
+- /lib
+- /mnt
+- /media
+- /opt
+- /proc
+- /root
+- /sbin
+- /tmp
+- /usr
 
 # Porque Linux?
 
