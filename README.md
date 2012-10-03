@@ -68,7 +68,7 @@
 - Cada um possui o seu conjunto de aplicativos
 - Qual devo usar? Gosto é gosto e não se discute.
 
-# Porque Linux
+# Porque Linux?
 
 - Liberdade
 - Estabilidade
