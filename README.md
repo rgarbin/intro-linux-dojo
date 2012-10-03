@@ -10,7 +10,7 @@
 # O que é o GNU
 - GNU é um projeto que desenvolver diversos aplicativos necessário para um SO(compilador, editor, etc..)
 - Criado por Richard Stallman
-- Analogia: Kernel desenvolvido por Linux é o coração e o GNU o resto do corpo
+- Analogia: Kernel desenvolvido por Linus é o coração e o GNU o resto do corpo
 
 # Software Livre
 - É um software que pode usar, copiar, estudar, modificar e redistribuir
