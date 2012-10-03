@@ -1,7 +1,7 @@
 # Introdução
 Apresentação elaborada por Marcelo Anton e Rafael Garbin para um treinamento!
 
-# O que é o Linux?
+# O que é o GNU Linux?
 - É um sistema operacional derivado do Unix
 - Criado por Linus Torvalds em 1991
 - Utiliza a licença GPL
