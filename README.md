@@ -24,8 +24,8 @@
     - Popularizar o uso do Linux
     - Focado na educação
 - Algumas distros podem ser criadas como produtos e serem comercializadas(Red Hat Entreprise)
-- Algums distros famosas: Ubuntu, CentOs, Mint, Debian e etc..
 - Qual utilizar? Verifique a filosofia de cada uma e as suas necessidades
+- Tudo sobre as príncipais distros você encontra aqui: http://distrowatch.com/
 
 # Principais componentes de uma DISTRO
 
