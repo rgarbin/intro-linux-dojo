@@ -32,9 +32,9 @@ Apresentação elaborada por Marcelo Anton e Rafael Garbin para um treinamento!
 
 ## Kernel
 - Pode ser entendido como uma série de arquivos escritos em C e em assembler
-- Controla todo o hardware do computador
 - Pode ser visto como uma interface entre os programas e o hardware
 - Cabe ao Kernel a tarefa de permitir que todos os processos sejam executados pela CPU e permitir que estes consiguam compartilhar a mémoria do computador
+- Só o kernel não é suficiente para se ter uma sistema funcional, mas é o principal
 - Periodicamente são lançadas novas versões do Kernel
     - Para corrigir vunerabilidade
     - Para adicionar novos recursos
