@@ -7,7 +7,7 @@
 - Linux surgiu de Linus + Unix
 - Desenvolvido por voluntários
 
-# O que é o GNU
+# O que é o GNU?
 - GNU é um projeto que desenvolveu diversos aplicativos necessário para um SO(compilador, editor, etc..)
 - Criado por Richard Stallman
 - Analogia: Kernel desenvolvido por Linus é o coração e o GNU o resto do corpo
@@ -17,7 +17,7 @@
 - Maddog é o maior evangelista de software livre no mundo
 
 # Distribuições
-- Kernel + Aplicativo + Organização ou comunidade para mantem
+- DISTRO = Kernel + Aplicativos + Organização ou comunidade para mantém
 - Existem diversas distros no mercado, cada uma com uma filosofia
     - Rodar em servidores
     - Rodar em sistemas embarcados
@@ -44,7 +44,7 @@
 - Empacotamento é a forma como algo é entregue, como programas são enviados, recebidos e instalados dentro das distros
 - Como o Linux é um sistema livre e com várias distros, ele possui vários sistemas de empacotamento
 - Dois dos mais conhecidos são:
-    - DEB 
+    - DEB
     - RPM
 
 ## Shell
@@ -60,12 +60,12 @@
 
 ## Xorg
 - É um sistema gráfico de janelas que roda em uma grande faixa de computadores
-- Pode ser utilizado localmente ou remoto atrás da rede 
+- Pode ser utilizado localmente ou remoto atrás da rede
 
 ## Ambiente gráficos
 - Existem diversos ambiente gráficos para o Linux, os mais conhecidos são:
     - KDE que utiliza o QT
-    - Gnome que utiliza o GTK
+    - GNOME que utiliza o GTK
     - XFCE que utiliza o GTK
 - Cada um possui o seu conjunto de aplicativos
 - Qual devo usar? Gosto é gosto e não se discute.
