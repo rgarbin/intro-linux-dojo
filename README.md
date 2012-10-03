@@ -4,7 +4,7 @@
 - É um sistema operacional derivado do Unix
 - Criado por Linus Torvalds em 1991
 - Utiliza a licença GPL
-- Linux surgiu de Linux + Unix
+- Linux surgiu de Linus + Unix
 - Desenvolvido por voluntários
 
 # O que é o GNU
